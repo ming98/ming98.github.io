@@ -2,7 +2,7 @@
 
 ![Architecture Office](https://github.com/ming98/ming98.github.io/blob/master/Standards/Mobile/_images/AO-Logo.png)
 
-### Date - 4th July 2017
+### Date - 4th July 2017 - part 2
 
 ### Owner/s - 
 
