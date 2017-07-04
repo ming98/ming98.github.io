@@ -1,8 +1,8 @@
 ### DXC MOBILE APPLICATION STANDARDS
 
-![Architecture Office](_images/AO-Logo.png?raw=true)
+![Architecture Office](https://github.com/ming98/ming98.github.io/blob/master/Standards/Mobile/_images/AO-Logo.png?raw=true)
 
-### Date - 4th July 2017 - part 4
+### Date - 4th July 2017 - part 5
 
 ### Owner/s - 
 
