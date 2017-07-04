@@ -1,4 +1,4 @@
-![Architecture Office](./_images/AO-Logo.png)
+![Architecture Office](https://github.com/ming98/ming98.github.io/blob/master/Standards/Mobile/_images/AO-Logo.png?raw=true)
 
 #General Prescription
 High quality apps generally do the following well:
