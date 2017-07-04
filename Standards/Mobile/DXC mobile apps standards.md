@@ -1,8 +1,7 @@
 ### DXC MOBILE APPLICATION STANDARDS
 
-![Architecture Office](./_images/AO-Logo.png)
+![Architecture Office](_images/AO-Logo.png)
 
-(./_images/AO-Logo.png)
 ### Date - 6th Jun 2017
 
 ### Owner/s - 
