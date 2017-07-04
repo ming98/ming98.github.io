@@ -1,12 +1,12 @@
-### DXC MOBILE APPLICATION STANDARDS
+## DXC MOBILE APPLICATION STANDARDS
 
 ![Architecture Office](https://github.com/ming98/ming98.github.io/blob/master/Standards/Mobile/_images/AO-Logo.png?raw=true)
 
-### Date - 4th July 2017 - part 5
+### Date - 4th July 2017
 
-### Owner/s - 
+### Owner/s -
 
-## Overview  
+## Overview
 
 This document outlines the Development and Operation best practices DXC require around the mobile applications we develop and operate for our clients. It will cover the main Mobile OS (iOS, Android, MS), and will consider all aspects of the Mobile device and data that is captured and handled.
 
@@ -43,9 +43,9 @@ This document outlines the Development and Operation best practices DXC require 
 	- Layout
 	- Navigation
 	- Images
-	- Screen Sizing 		
+	- Screen Sizing
 - [Mobile APIs](API.md)
 - [Security](Security.md)
 	- Regulated Data / App Purpose
-	- Non Regulated 
-- [Maintenance / Updates](Maintenance.md) 
+	- Non Regulated
+- [Maintenance / Updates](Maintenance.md)
