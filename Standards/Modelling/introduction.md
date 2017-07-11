@@ -1,5 +1,7 @@
 # Architecture modelling standards - an introduction
 
+![Architecture Office](https://github.com/ming98/ming98.github.io/blob/master/Standards/Mobile/_images/AO-Logo.png?raw=true)
+
 ## Purpose
 The purpose of this document is to initiate discussions for companywide Architecture Modelling Standards. 
 
