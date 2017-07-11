@@ -1,5 +1,3 @@
-![Architecture Office](./_images/AO-Logo.png)
-
 # Architecture modelling standards - an introduction
 
 ## Purpose
